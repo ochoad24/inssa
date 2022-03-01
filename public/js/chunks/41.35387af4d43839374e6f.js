@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{EG0M:function(e,n,t){"use strict";t.r(n);var i=t("KHd+"),s=Object(i.a)({},(function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("Bienvenido al Sistema Credicash.")])}),[],!1,null,null,null);n.default=s.exports}}]);
